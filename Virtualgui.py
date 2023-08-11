@@ -26,7 +26,7 @@ class Widget():
 
 
     #------------------------------------------------------KEY WORD LISTS---------------------------------------------------------------------------
-    #                THESE ARE ALL THE LIST WHICH CONTAINS IMPORTANT KEYWORDS WHICH THE Rimsar  CAN USE.
+    #                THESE ARE ALL THE LIST WHICH CONTAINS IMPORTANT KEYWORDS WHICH THE VivaVox  CAN USE.
     #--------------------------------------------------------------------------------------------------------------------------------------------------------
     greet = ['Hey Whats up! How are you doing', 'Hello Sargam','Hi ! I am your Assistant','Hello, How can I help You']
     how = ['I am Fine , What about You','I am fine as always', 'what you think','just fine!!']
